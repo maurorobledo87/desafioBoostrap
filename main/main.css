@@ -1,0 +1,46 @@
+#carouselExampleControls{
+    max-width: 400px;
+    text-align: -webkit-center;
+    margin-left: 34%;
+}
+.seccion{
+    margin-top: 35px;
+}
+
+#navbarNav{
+    margin: 8px 419px;
+}    
+.prod{
+    margin: 3%;
+}
+
+.form-control{
+    margin: 8px;
+}
+.icono{
+    width: 50px;
+}
+.con{
+    width: 58%;
+    margin-left: 21%;
+}
+
+#carouselExampleFade{
+    max-width: 400px;
+    text-align: -webkit-center;
+    margin-left: 34%;
+}
+
+.pieDePag{
+    margin-top: 4%;
+}
+#carouselExampleInterval{
+    max-width: 400px;
+    text-align: -webkit-center;
+    margin-left: 34%;
+
+}
+.titulo{
+    text-align: center;
+    padding: 3%;
+}
